@@ -39,15 +39,16 @@ function TodoList() {
   };
 
   return (
-    <div>
-      <h1>What are you planning to do today?</h1>
+    <div className="todo-list">
       <TodoForm onSubmit={addTodo} />
-      <Todo
+      <div className="grid-container">
+      <Todo className="note"
         todos={todos}
         completeTodo={completeTodo}
         removeTodo={removeTodo}
         updateTodo={updateTodo}
       />
+      </div>
     </div>
   );
 }
