@@ -14,7 +14,7 @@ Software Developer and aspiring Game Developer
 
 Screen recorded on iPad Pro emulator
 
-![Video](src/assets/react-todo.gif)
+![Video](src/assets/react-todo-app.gif)
 
 ## Experience with Project
 
