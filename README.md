@@ -12,6 +12,8 @@ Software Developer and aspiring Game Developer
 
 # Project 
 
+Screen recorded on iPad Pro emulator
+
 ![Video](src/assets/react-todo.gif)
 
 ## Experience with Project
